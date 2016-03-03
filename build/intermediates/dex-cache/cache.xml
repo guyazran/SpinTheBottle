@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_8015cd9c96bcec83f3b0f2154cc06b1d7a880b7d.jar" />
+    </item>
+    <item
+        jar="/Users/guyazran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_c748a1dcc2e2c08557fb9dbfb5401d13b1e53b91.jar" />
+    </item>
+    <item
+        jar="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_b0e5bf14d2dadcd30c494cdb8f00bf7ebf651bae.jar" />
+    </item>
+    <item
+        jar="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_d8e4a26b39d141c444ead6dac7e73f933e5689de.jar" />
+    </item>
+    <item
+        jar="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_024f5922ce53d380983624371cf9ac40f365dc3d.jar" />
+    </item>
+    <item
+        jar="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/guyazran/Desktop/Development/Exercises/SpinTheBottle/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_84fb98656c91ef02eb4e16e91e036c2a5c626a78.jar" />
+    </item>
+
+</items>
